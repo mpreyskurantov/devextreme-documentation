@@ -1,3 +1,3 @@
 #include demos-intro
 
-- [Overview](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Resizable/Overview/)
+- [Overview](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Resizable/Overview/)

@@ -1,5 +1,8 @@
 #include demos-intro
 
+
+- [Overview](https://js.devexpress.com/Demos/WidgetsGallery/Demo/PivotGrid/Overview/)
+
 **Data Binding**
 
 - [Simple Array](https://js.devexpress.com/Demos/WidgetsGallery/Demo/PivotGrid/SimpleArray/)
@@ -28,4 +31,4 @@
 
 - [Overview](https://js.devexpress.com/Demos/WidgetsGallery/Demo/PivotGrid/ExcelJSOverview/)
 - [Cell Customization](https://js.devexpress.com/Demos/WidgetsGallery/Demo/PivotGrid/ExcelJSCellCustomization/)
-- [Header and Footer](https://js.devexpress.com/Demos/WidgetsGallery/Demo/PivotGrid/ExcelJsHeaderAndFooter/)
+- [Header and Footer](https://js.devexpress.com/Demos/WidgetsGallery/Demo/PivotGrid/ExcelJsHeaderAndFooter/)

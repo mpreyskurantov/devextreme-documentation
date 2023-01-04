@@ -13,4 +13,4 @@
 - [Floor Plan](https://js.devexpress.com/Demos/WidgetsGallery/Demo/VectorMap/FloorPlan/)
 - [Multiple Layers](https://js.devexpress.com/Demos/WidgetsGallery/Demo/VectorMap/MultipleLayers/)
 - [Custom Map Data](https://js.devexpress.com/Demos/WidgetsGallery/Demo/VectorMap/CustomMapData/)
-- [Custom Annotations](https://js.devexpress.com/Demos/WidgetsGallery/Demo/VectorMap/CustomAnnotations/)
+- [Custom Annotations](https://js.devexpress.com/Demos/WidgetsGallery/Demo/VectorMap/CustomAnnotations/)

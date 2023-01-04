@@ -1,5 +1,6 @@
 #include demos-intro
 
+
 - [Overview](https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/Overview/)
 
 **File System Types**
@@ -13,4 +14,4 @@
 **Customization**
 
 - [Custom Thumbnails](https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/CustomThumbnails/)
-- [Toolbar and Context Menu](https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/UICustomization/)
+- [Toolbar and Context Menu](https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/UICustomization/)

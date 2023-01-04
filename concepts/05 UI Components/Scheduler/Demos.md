@@ -1,5 +1,6 @@
 #include demos-intro
 
+
 - [Overview](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/Overview/)
 
 **Data Binding**
@@ -25,6 +26,10 @@
 - [Resources](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/Resources/)
 - [All Day Panel Mode](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/AllDayPanelMode/)
 
+**Virtual Scrolling**
+
+- [Virtual Scrolling](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/VirtualScrolling/)
+
 **Grouping**
 
 - [Group Orientation](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/GroupOrientation/)
@@ -39,7 +44,6 @@
 - [Limit the Appointment Count per Cell](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/LimitAppointmentCountPerCell/)
 - [Context Menu Integration](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/ContextMenuIntegration/)
 
-**More Features**
+**Adaptability**
 
-- [Virtual Scrolling](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/VirtualScrolling/)
-- [Adaptability](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/Adaptability/)
+- [Adaptability](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/Adaptability/)

@@ -1,5 +1,6 @@
 #include demos-intro
 
+
 - [Overview](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/Overview/)
 
 **Data**
@@ -14,13 +15,19 @@
 - [Toolbar](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/Toolbar/)
 - [Context Menu](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/ContextMenu/)
 
+**Strip Lines**
+
+- [Strip Lines](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/StripLines/)
+
+**Export to PDF**
+
+- [Export To PDF](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/ExportToPDF/)
+
+**Sorting**
+
+- [Sorting](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/Sorting/)
+
 **Filtering**
 
 - [Filter Row](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/FilterRow/)
-- [Header Filter](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/HeaderFilter/)
-
-**More Features**
-
-- [Strip Lines](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/StripLines/)
-- [Export to PDF](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/ExportToPDF/)
-- [Sorting](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/Sorting/)
+- [Header Filter](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Gantt/HeaderFilter/)

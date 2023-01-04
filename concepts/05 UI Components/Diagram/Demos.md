@@ -1,5 +1,8 @@
 #include demos-intro
 
+
+- [Overview](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/Overview/)
+
 **Data Binding**
 
 - [Node and Edge Arrays](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/NodesAndEdgesArrays/)
@@ -22,7 +25,7 @@
 
 **Document Capabilities**
 
-- [Read-Only Mode](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/ReadOnly/)
+- [Read Only Mode](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/ReadOnly/)
 - [Simple View](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/SimpleView/)
 
 **User Interaction**
@@ -30,7 +33,10 @@
 - [Item Selection](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/ItemSelection/)
 - [Editing Restrictions](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/OperationRestrictions/)
 
-**More Features**
+**UI Customization**
 
 - [UI Customization](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/UICustomization/)
-- [Adaptability](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/Adaptability/)
+
+**Adaptability**
+
+- [Adaptability](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/Adaptability/)
