@@ -1,8 +1,7 @@
 ---
 id: dxLookup.Options.pageLoadMode
-acceptValues: 'nextButton' | 'scrollBottom'
-type: String
 default: 'scrollBottom'
+inherits: Enums.PageLoadMode
 ---
 ---
 ##### shortDescription

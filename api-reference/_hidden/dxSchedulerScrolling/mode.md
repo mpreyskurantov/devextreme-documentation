@@ -1,8 +1,7 @@
 ---
 id: dxSchedulerScrolling.mode
-acceptValues: 'standard' | 'virtual'
-type: String
 default: 'standard'
+inherits: Enums.ScrollMode
 ---
 ---
 ##### shortDescription

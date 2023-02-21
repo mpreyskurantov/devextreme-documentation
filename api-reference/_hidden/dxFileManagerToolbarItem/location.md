@@ -1,8 +1,7 @@
 ---
 id: dxFileManagerToolbarItem.location
-acceptValues: 'after' | 'before' | 'center'
-type: String
 default: 'before'
+inherits: Enums.ToolbarItemLocation
 ---
 ---
 ##### shortDescription

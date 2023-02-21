@@ -1,8 +1,7 @@
 ---
 id: Editor.Options.validationMessageMode
-acceptValues: 'always' | 'auto'
-type: String
 default: 'auto'
+inherits: Enums.ValidationMessageMode
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxPieChart.Options.type
-acceptValues: 'donut' | 'doughnut' | 'pie'
-type: String
 default: 'pie'
+inherits: Enums.PieChartType
 ---
 ---
 ##### shortDescription

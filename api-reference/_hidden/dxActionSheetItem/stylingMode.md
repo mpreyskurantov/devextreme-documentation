@@ -1,8 +1,7 @@
 ---
 id: dxActionSheetItem.stylingMode
-acceptValues: 'text' | 'outlined' | 'contained'
-type: String
 default: 'outlined'
+inherits: Enums.ButtonStyle
 ---
 ---
 ##### shortDescription

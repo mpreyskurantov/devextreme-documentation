@@ -1,8 +1,7 @@
 ---
 id: BaseWidgetAnnotationConfig.type
-acceptValues: 'text' | 'image' | 'custom'
-type: String
 default: undefined
+inherits: Enums.AnnotationType
 ---
 ---
 ##### shortDescription

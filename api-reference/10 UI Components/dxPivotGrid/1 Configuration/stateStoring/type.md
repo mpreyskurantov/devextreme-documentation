@@ -1,8 +1,7 @@
 ---
 id: dxPivotGrid.Options.stateStoring.type
-acceptValues: 'custom' | 'localStorage' | 'sessionStorage'
-type: String
 default: 'localStorage'
+inherits: Enums.StateStoreType
 ---
 ---
 ##### shortDescription

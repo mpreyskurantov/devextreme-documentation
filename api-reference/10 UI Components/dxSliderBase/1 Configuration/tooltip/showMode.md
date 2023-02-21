@@ -1,8 +1,7 @@
 ---
 id: dxSliderBase.Options.tooltip.showMode
-acceptValues: 'always' | 'onHover'
-type: String
 default: 'onHover'
+inherits: Enums.TooltipShowMode
 ---
 ---
 ##### shortDescription

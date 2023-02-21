@@ -1,8 +1,7 @@
 ---
 id: dxFunnel.Options.selectionMode
-acceptValues: 'single' | 'multiple' | 'none'
-type: String
 default: 'single'
+inherits: Enums.SingleMultipleOrNone
 ---
 ---
 ##### shortDescription

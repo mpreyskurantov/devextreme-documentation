@@ -1,8 +1,7 @@
 ---
 id: dxPolarChartSeriesTypes.CommonPolarChartSeries.selectionStyle.hatching.direction
-acceptValues: 'left' | 'none' | 'right'
-type: String
 default: 'none'
+inherits: Enums.HatchDirection
 ---
 ---
 ##### shortDescription

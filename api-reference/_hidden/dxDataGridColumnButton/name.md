@@ -1,7 +1,6 @@
 ---
 id: dxDataGridColumnButton.name
-acceptValues: 'cancel' | 'delete' | 'edit' | 'save' | 'undelete'
-type: String
+inherits: Enums.DataGridPredefinedColumnButton
 ---
 ---
 ##### shortDescription

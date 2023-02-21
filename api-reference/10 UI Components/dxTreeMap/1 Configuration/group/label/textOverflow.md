@@ -1,8 +1,7 @@
 ---
 id: dxTreeMap.Options.group.label.textOverflow
-acceptValues: 'ellipsis' | 'hide' | 'none'
-type: String
 default: 'ellipsis'
+inherits: Enums.TextOverflow
 ---
 ---
 ##### shortDescription

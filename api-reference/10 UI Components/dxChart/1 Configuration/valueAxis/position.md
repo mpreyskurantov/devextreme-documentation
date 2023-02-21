@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.valueAxis.position
-acceptValues: 'bottom' | 'left' | 'right' | 'top'
-type: String
 default: 'left'
+inherits: Enums.Position
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.argumentAxis.type
-acceptValues: 'continuous' | 'discrete' | 'logarithmic'
-type: String
 default: undefined
+inherits: Enums.AxisScaleType
 ---
 ---
 ##### shortDescription

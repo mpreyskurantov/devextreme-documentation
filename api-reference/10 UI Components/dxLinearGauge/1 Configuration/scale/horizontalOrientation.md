@@ -1,8 +1,7 @@
 ---
 id: dxLinearGauge.Options.scale.horizontalOrientation
-acceptValues: 'center' | 'left' | 'right'
-type: String
 default: 'right'
+inherits: Enums.HorizontalAlignment
 ---
 ---
 ##### shortDescription

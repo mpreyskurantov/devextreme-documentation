@@ -1,8 +1,7 @@
 ---
 id: dxRangeSelector.Options.scale.breakStyle.line
-acceptValues: 'straight' | 'waved'
-type: String
 default: 'waved'
+inherits: Enums.ScaleBreakLineStyle
 ---
 ---
 ##### shortDescription

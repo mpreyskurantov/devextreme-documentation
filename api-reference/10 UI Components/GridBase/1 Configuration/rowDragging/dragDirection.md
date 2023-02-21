@@ -1,8 +1,7 @@
 ---
 id: GridBase.Options.rowDragging.dragDirection
-acceptValues: 'both' | 'horizontal' | 'vertical'
-type: String
 default: 'both'
+inherits: Enums.DragDirection
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: GridBase.Options.pager.displayMode
-acceptValues: 'adaptive' | 'compact' | 'full'
-type: String
 default: 'adaptive'
+inherits: Enums.PagerDisplayMode
 ---
 ---
 ##### shortDescription

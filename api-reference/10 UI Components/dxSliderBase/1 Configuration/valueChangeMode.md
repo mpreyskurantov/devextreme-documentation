@@ -1,8 +1,7 @@
 ---
 id: dxSliderBase.Options.valueChangeMode
-acceptValues: 'onHandleMove' | 'onHandleRelease'
-type: String
 default: 'onHandleMove'
+inherits: Enums.SliderValueChangeMode
 ---
 ---
 ##### shortDescription

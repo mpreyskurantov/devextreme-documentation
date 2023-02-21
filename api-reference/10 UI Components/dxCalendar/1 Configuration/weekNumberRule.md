@@ -1,8 +1,7 @@
 ---
 id: dxCalendar.Options.weekNumberRule
-acceptValues: 'auto' | 'firstDay' | 'fullWeek' | 'firstFourDays'
-type: String
 default: 'auto'
+inherits: Enums.WeekNumberRule
 ---
 ---
 ##### shortDescription

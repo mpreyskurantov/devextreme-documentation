@@ -1,8 +1,7 @@
 ---
 id: dxSliderBase.Options.tooltip.position
-acceptValues: 'bottom' | 'top'
-type: String
 default: 'top'
+inherits: Enums.VerticalEdge
 ---
 ---
 ##### shortDescription

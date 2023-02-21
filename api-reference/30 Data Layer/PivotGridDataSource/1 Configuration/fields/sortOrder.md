@@ -1,8 +1,7 @@
 ---
 id: PivotGridDataSource.Options.fields.sortOrder
-acceptValues: 'asc' | 'desc'
-type: String
 default: 'asc'
+inherits: Enums.SortOrder
 ---
 ---
 ##### shortDescription

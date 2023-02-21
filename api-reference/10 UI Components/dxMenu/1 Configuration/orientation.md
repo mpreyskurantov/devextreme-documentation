@@ -1,8 +1,7 @@
 ---
 id: dxMenu.Options.orientation
-acceptValues: 'horizontal' | 'vertical'
-type: String
 default: 'horizontal'
+inherits: Enums.Orientation
 ---
 ---
 ##### shortDescription

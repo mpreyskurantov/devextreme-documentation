@@ -1,8 +1,7 @@
 ---
 id: dxPolarChartSeriesTypes.CommonPolarChartSeries.label.position
-acceptValues: 'inside' | 'outside'
-type: String
 default: 'outside'
+inherits: Enums.RelativePosition
 ---
 ---
 ##### shortDescription

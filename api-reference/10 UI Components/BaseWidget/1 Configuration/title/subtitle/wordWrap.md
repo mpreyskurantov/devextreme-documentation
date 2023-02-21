@@ -1,8 +1,7 @@
 ---
 id: BaseWidget.Options.title.subtitle.wordWrap
-acceptValues: 'normal' | 'breakWord' | 'none'
-type: String
 default: 'normal'
+inherits: Enums.WordWrap
 ---
 ---
 ##### shortDescription

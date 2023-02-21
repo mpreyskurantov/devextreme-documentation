@@ -1,8 +1,7 @@
 ---
 id: dxMenu.Options.submenuDirection
-acceptValues: 'auto' | 'leftOrTop' | 'rightOrBottom'
-type: String
 default: 'auto'
+inherits: Enums.SubmenuDirection
 ---
 ---
 ##### shortDescription

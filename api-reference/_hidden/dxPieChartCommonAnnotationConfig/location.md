@@ -1,8 +1,7 @@
 ---
 id: dxPieChartCommonAnnotationConfig.location
-acceptValues: 'center' | 'edge'
-type: String
 default: 'center'
+inherits: Enums.PieChartAnnotationLocation
 ---
 ---
 ##### shortDescription

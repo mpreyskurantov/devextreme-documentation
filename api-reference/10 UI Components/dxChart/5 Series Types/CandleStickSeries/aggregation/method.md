@@ -1,8 +1,7 @@
 ---
 id: dxChartSeriesTypes.CandleStickSeries.aggregation.method
-acceptValues: 'ohlc' | 'custom'
-type: String
 default: 'ohlc'
+inherits: Enums.ChartFinancialSeriesAggregationMethod
 ---
 ---
 ##### shortDescription

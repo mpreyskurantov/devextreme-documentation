@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.valueAxis.visualRangeUpdateMode
-acceptValues: 'auto' | 'keep' | 'reset' | 'shift'
-type: String
 default: 'auto'
+inherits: Enums.VisualRangeUpdateMode
 ---
 ---
 ##### shortDescription

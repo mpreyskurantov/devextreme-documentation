@@ -1,8 +1,7 @@
 ---
 id: dxTreeMap.Options.selectionMode
-acceptValues: 'single' | 'multiple' | 'none'
-type: String
 default: undefined
+inherits: Enums.SingleMultipleOrNone
 ---
 ---
 ##### shortDescription

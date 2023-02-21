@@ -1,8 +1,7 @@
 ---
 id: PivotGridDataSource.Options.fields.summaryType
-acceptValues: 'avg' | 'count' | 'custom' | 'max' | 'min' | 'sum'
-type: String
 default: 'count'
+inherits: Enums.SummaryType
 ---
 ---
 ##### shortDescription

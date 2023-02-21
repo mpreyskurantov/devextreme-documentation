@@ -1,7 +1,6 @@
 ---
 id: PivotGridDataSource.Options.store.type
-acceptValues: 'array' | 'local' | 'odata' | 'xmla'
-type: String
+inherits: Enums.PivotGridStoreType
 ---
 ---
 ##### shortDescription

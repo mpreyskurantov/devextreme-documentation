@@ -1,8 +1,7 @@
 ---
 id: dxToolbarItem.showText
-acceptValues: 'always' | 'inMenu'
-type: String
 default: 'always'
+inherits: Enums.ShowTextMode
 ---
 ---
 ##### shortDescription

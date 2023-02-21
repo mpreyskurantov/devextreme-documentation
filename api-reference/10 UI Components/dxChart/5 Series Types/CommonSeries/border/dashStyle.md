@@ -1,8 +1,7 @@
 ---
 id: dxChartSeriesTypes.CommonSeries.border.dashStyle
-acceptValues: 'dash' | 'dot' | 'longDash' | 'solid'
-type: String
 default: undefined
+inherits: Enums.DashStyle
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxSliderBase.Options.label.position
-acceptValues: 'bottom' | 'top'
-type: String
 default: 'bottom'
+inherits: Enums.VerticalEdge
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: GridBase.Options.columnChooser.sortOrder
-acceptValues: 'asc' | 'desc'
-type: String
 default: undefined
+inherits: Enums.SortOrder
 ---
 ---
 ##### shortDescription

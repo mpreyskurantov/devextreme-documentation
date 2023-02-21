@@ -1,8 +1,7 @@
 ---
 id: dxGantt.Options.taskTitlePosition
-acceptValues: 'inside' | 'outside' | 'none'
-type: String
 default: 'inside'
+inherits: Enums.GanttTaskTitlePosition
 ---
 ---
 ##### shortDescription

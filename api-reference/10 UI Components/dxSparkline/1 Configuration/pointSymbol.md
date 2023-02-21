@@ -1,8 +1,7 @@
 ---
 id: dxSparkline.Options.pointSymbol
-acceptValues: 'circle' | 'cross' | 'polygon' | 'square' | 'triangle' | 'triangleDown' | 'triangleUp'
-type: String
 default: 'circle'
+inherits: Enums.PointSymbol
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxChartSeriesTypes.StackedBarSeries.aggregation.method
-acceptValues: 'avg' | 'count' | 'max' | 'min' | 'sum' | 'custom'
-type: String
 default: 'sum'
+inherits: Enums.ChartSingleValueSeriesAggregationMethod
 ---
 ---
 ##### shortDescription

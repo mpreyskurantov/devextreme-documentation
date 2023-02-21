@@ -1,8 +1,7 @@
 ---
 id: dxRangeSelector.Options.scale.type
-acceptValues: 'continuous' | 'discrete' | 'logarithmic' | 'semidiscrete'
-type: String
 default: undefined
+inherits: Enums.AxisScale
 ---
 ---
 ##### shortDescription

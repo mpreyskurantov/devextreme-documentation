@@ -1,8 +1,7 @@
 ---
 id: dxFilterBuilderField.dataType
-acceptValues: 'string' | 'number' | 'date' | 'boolean' | 'object' | 'datetime'
-type: String
 default: 'string'
+inherits: Enums.DataType
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: PivotGridDataSource.Options.fields.sortBy
-acceptValues: 'displayText' | 'value' | 'none'
-type: String
 default: undefined
+inherits: Enums.PivotGridSortBy
 ---
 ---
 ##### shortDescription

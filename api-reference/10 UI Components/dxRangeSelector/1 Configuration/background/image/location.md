@@ -1,8 +1,7 @@
 ---
 id: dxRangeSelector.Options.background.image.location
-acceptValues: 'center' | 'centerBottom' | 'centerTop' | 'full' | 'leftBottom' | 'leftCenter' | 'leftTop' | 'rightBottom' | 'rightCenter' | 'rightTop'
-type: String
 default: 'full'
+inherits: Enums.BackgroundImageLocation
 ---
 ---
 ##### shortDescription

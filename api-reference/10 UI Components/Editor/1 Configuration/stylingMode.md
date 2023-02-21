@@ -1,9 +1,8 @@
 ---
 id: Editor.Options.stylingMode
-acceptValues: 'outlined' | 'underlined' | 'filled'
-type: String
 default: 'outlined'
 hidden: 
+inherits: Enums.EditorStyle
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxTreeMap.Options.colorizer.paletteExtensionMode
-acceptValues: 'alternate' | 'blend' | 'extrapolate'
-type: String
 default: 'blend'
+inherits: Enums.PaletteExtensionMode
 ---
 ---
 ##### shortDescription

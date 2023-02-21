@@ -1,8 +1,7 @@
 ---
 id: dxTreeList.Options.filterMode
-acceptValues: 'fullBranch' | 'withAncestors' | 'matchOnly'
-type: String
 default: 'withAncestors'
+inherits: Enums.TreeListFilterMode
 ---
 ---
 ##### shortDescription

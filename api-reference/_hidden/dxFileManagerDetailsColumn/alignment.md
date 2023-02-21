@@ -1,8 +1,7 @@
 ---
 id: dxFileManagerDetailsColumn.alignment
-acceptValues: undefined | 'center' | 'left' | 'right'
-type: String
 default: undefined
+inherits: Enums.HorizontalAlignment
 ---
 ---
 ##### shortDescription

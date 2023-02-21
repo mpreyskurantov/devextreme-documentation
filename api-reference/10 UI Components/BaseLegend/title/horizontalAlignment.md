@@ -1,8 +1,7 @@
 ---
 id: BaseLegend.title.horizontalAlignment
-acceptValues: 'center' | 'left' | 'right'
-type: String
 default: undefined
+inherits: Enums.HorizontalAlignment
 ---
 ---
 ##### shortDescription

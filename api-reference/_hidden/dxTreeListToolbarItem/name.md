@@ -1,7 +1,6 @@
 ---
 id: dxTreeListToolbarItem.name
-acceptValues: 'addRowButton' | 'applyFilterButton' | 'columnChooserButton' | 'revertButton' | 'saveButton' | 'searchPanel'
-type: String
+inherits: Enums.TreeListPredefinedToolbarItem
 ---
 ---
 ##### shortDescription

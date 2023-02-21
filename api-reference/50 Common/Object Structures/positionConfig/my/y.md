@@ -1,7 +1,6 @@
 ---
 id: PositionConfig.my.y
-acceptValues: 'bottom' | 'center' | 'top'
-type: String
+inherits: Enums.VerticalAlignment
 ---
 ---
 ##### shortDescription

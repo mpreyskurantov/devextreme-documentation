@@ -1,8 +1,7 @@
 ---
 id: dxSparkline.Options.type
-acceptValues: 'area' | 'bar' | 'line' | 'spline' | 'splinearea' | 'steparea' | 'stepline' | 'winloss'
-type: String
 default: 'line'
+inherits: Enums.SparklineType
 ---
 ---
 ##### shortDescription

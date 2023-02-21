@@ -1,8 +1,7 @@
 ---
 id: dxTextEditor.Options.stylingMode
-acceptValues: 'outlined' | 'underlined' | 'filled'
-type: String
 default: 'outlined', 'filled' (Material)
+inherits: Enums.EditorStyle
 ---
 ---
 ##### shortDescription

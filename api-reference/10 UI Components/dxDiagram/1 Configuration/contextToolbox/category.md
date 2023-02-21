@@ -1,7 +1,6 @@
 ---
 id: dxDiagram.Options.contextToolbox.category
-acceptValues: 'general' | 'flowchart' | 'orgChart' | 'containers' | 'custom'
-type: String
+inherits: Enums.DiagramShapeCategory
 ---
 ---
 ##### shortDescription

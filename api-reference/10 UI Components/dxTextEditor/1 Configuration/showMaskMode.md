@@ -1,8 +1,7 @@
 ---
 id: dxTextEditor.Options.showMaskMode
-acceptValues: 'always' | 'onFocus'
-type: String
 default: 'always'
+inherits: Enums.MaskMode
 ---
 ---
 ##### shortDescription

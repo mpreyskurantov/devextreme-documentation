@@ -1,8 +1,7 @@
 ---
 id: dxPolarChart.Options.resolveLabelOverlapping
-acceptValues: 'hide' | 'none'
-type: String
 default: 'none'
+inherits: Enums.LabelOverlap
 ---
 ---
 ##### shortDescription

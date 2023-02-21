@@ -1,8 +1,7 @@
 ---
 id: DataSource.Options.searchOperation
-type: String
 default: 'contains'
-acceptValues: '=' | '<>' | '>' | '>=' | '<' | '<=' | 'startswith' | 'endswith' | 'contains' | 'notcontains'
+inherits: Enums.SearchOperation
 ---
 ---
 ##### shortDescription

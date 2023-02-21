@@ -1,8 +1,7 @@
 ---
 id: dxScheduler.Options.views.type
-acceptValues: 'agenda' | 'day' | 'month' | 'timelineDay' | 'timelineMonth' | 'timelineWeek' | 'timelineWorkWeek' | 'week' | 'workWeek'
-type: String
 default: undefined
+inherits: Enums.ViewType
 ---
 ---
 ##### shortDescription

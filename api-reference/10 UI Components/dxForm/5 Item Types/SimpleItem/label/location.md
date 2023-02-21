@@ -1,8 +1,7 @@
 ---
 id: dxFormSimpleItem.label.location
-acceptValues: 'left' | 'right' | 'top'
-type: String
 default: 'left'
+inherits: Enums.LabelLocation
 ---
 ---
 ##### shortDescription

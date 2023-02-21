@@ -1,8 +1,7 @@
 ---
 id: dxPolarChart.Options.argumentAxis.argumentType
-acceptValues: 'datetime' | 'numeric' | 'string'
-type: String
 default: undefined
+inherits: Enums.ChartsDataType
 ---
 ---
 ##### shortDescription
