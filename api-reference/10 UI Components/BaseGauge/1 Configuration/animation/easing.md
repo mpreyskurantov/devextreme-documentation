@@ -1,8 +1,7 @@
 ---
 id: BaseGauge.Options.animation.easing
-acceptValues: 'easeOutCubic' | 'linear'
-type: String
 default: 'easeOutCubic'
+inherits: Enums.AnimationEaseMode
 ---
 ---
 ##### shortDescription

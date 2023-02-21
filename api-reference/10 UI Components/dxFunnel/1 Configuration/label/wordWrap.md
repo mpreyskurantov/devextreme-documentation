@@ -1,8 +1,7 @@
 ---
 id: dxFunnel.Options.label.wordWrap
-acceptValues: 'normal' | 'breakWord' | 'none'
-type: String
 default: 'normal'
+inherits: Enums.WordWrap
 ---
 ---
 ##### shortDescription

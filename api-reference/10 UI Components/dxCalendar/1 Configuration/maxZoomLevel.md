@@ -1,8 +1,7 @@
 ---
 id: dxCalendar.Options.maxZoomLevel
-acceptValues: 'century' | 'decade' | 'month' | 'year'
-type: String
 default: 'month'
+inherits: Enums.CalendarZoomLevel
 ---
 ---
 ##### shortDescription

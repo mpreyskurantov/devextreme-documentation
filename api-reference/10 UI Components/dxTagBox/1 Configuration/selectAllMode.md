@@ -1,8 +1,7 @@
 ---
 id: dxTagBox.Options.selectAllMode
-acceptValues: 'allPages' | 'page'
-type: String
 default: 'page'
+inherits: Enums.SelectAllMode
 ---
 ---
 ##### shortDescription

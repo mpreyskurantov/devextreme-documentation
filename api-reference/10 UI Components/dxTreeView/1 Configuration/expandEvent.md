@@ -1,8 +1,7 @@
 ---
 id: dxTreeView.Options.expandEvent
-acceptValues: 'dblclick' | 'click'
-type: String
 default: 'dblclick'
+inherits: Enums.TreeViewExpandEvent
 ---
 ---
 ##### shortDescription

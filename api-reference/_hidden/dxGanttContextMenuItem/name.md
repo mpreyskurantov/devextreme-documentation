@@ -1,7 +1,6 @@
 ---
 id: dxGanttContextMenuItem.name
-acceptValues: 'undo' | 'redo' | 'expandAll' | 'collapseAll' | 'addTask' | 'deleteTask' | 'zoomIn' | 'zoomOut' | 'deleteDependency' | 'taskDetails' | 'resourceManager'
-type: String
+inherits: Enums.GanttPredefinedContextMenuItem
 ---
 ---
 ##### shortDescription

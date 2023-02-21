@@ -1,8 +1,7 @@
 ---
 id: BaseLegend.itemTextPosition
-acceptValues: 'bottom' | 'left' | 'right' | 'top'
-type: String
 default: undefined
+inherits: Enums.Position
 ---
 ---
 ##### shortDescription

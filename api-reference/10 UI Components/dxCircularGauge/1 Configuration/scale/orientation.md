@@ -1,8 +1,7 @@
 ---
 id: dxCircularGauge.Options.scale.orientation
-acceptValues: 'center' | 'inside' | 'outside'
-type: String
 default: 'outside'
+inherits: Enums.CircularGaugeElementOrientation
 ---
 ---
 ##### shortDescription

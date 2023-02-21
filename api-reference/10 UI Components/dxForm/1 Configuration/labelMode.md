@@ -1,8 +1,7 @@
 ---
 id: dxForm.Options.labelMode
-acceptValues: 'static' | 'floating' | 'hidden' | 'outside'
-type: String
 default: 'outside'
+inherits: Enums.FormLabelMode
 ---
 ---
 ##### shortDescription

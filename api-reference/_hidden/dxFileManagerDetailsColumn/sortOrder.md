@@ -1,8 +1,7 @@
 ---
 id: dxFileManagerDetailsColumn.sortOrder
-acceptValues: undefined | 'asc' | 'desc'
-type: String
 default: undefined
+inherits: Enums.SortOrder
 ---
 ---
 ##### shortDescription

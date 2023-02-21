@@ -1,8 +1,7 @@
 ---
 id: dxList.Options.selectionMode
-acceptValues: 'single' | 'multiple' | 'all' | 'none'
-type: String
 default: 'none'
+inherits: Enums.SingleMultipleAllOrNone
 ---
 ---
 ##### shortDescription

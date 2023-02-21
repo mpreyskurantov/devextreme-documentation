@@ -1,8 +1,7 @@
 ---
 id: dxPolarChartSeriesTypes.CommonPolarChartSeries.point.symbol
-acceptValues: 'circle' | 'cross' | 'polygon' | 'square' | 'triangle' | 'triangleDown' | 'triangleUp'
-type: String
 default: 'circle'
+inherits: Enums.PointSymbol
 ---
 ---
 ##### shortDescription

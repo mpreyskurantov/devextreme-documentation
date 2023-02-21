@@ -1,8 +1,8 @@
 ---
 id: dxRangeSelector.Options.behavior.callValueChanged
-acceptValues: 'onMoving' | 'onMovingComplete'
-type: String
 default: 'onMovingComplete'
+deprecated: 
+inherits: Enums.ValueChangedCallMode
 ---
 ---
 ##### shortDescription

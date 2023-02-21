@@ -1,8 +1,7 @@
 ---
 id: dxDropDownEditor.Options.applyValueMode
-acceptValues: 'instantly' | 'useButtons'
-type: String
 default: 'instantly'
+inherits: Enums.ApplyValueMode
 ---
 ---
 ##### shortDescription

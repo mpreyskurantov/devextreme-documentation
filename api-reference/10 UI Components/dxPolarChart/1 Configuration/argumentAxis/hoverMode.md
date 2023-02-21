@@ -1,8 +1,7 @@
 ---
 id: dxPolarChart.Options.argumentAxis.hoverMode
-acceptValues: 'allArgumentPoints' | 'none'
-type: String
 default: 'none'
+inherits: Enums.ArgumentAxisHoverMode
 ---
 ---
 ##### shortDescription

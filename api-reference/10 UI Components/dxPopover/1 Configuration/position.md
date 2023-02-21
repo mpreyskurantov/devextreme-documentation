@@ -1,8 +1,7 @@
 ---
 id: dxPopover.Options.position
-acceptValues: 'bottom' | 'left' | 'right' | 'top'
-type: String | PositionConfig
 default: { my: 'top center', at: 'bottom center', collision: 'fit flip' }
+inherits: Enums.Position
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: BaseLegend.orientation
-acceptValues: 'horizontal' | 'vertical'
-type: String
 default: undefined
+inherits: Enums.Orientation
 ---
 ---
 ##### shortDescription

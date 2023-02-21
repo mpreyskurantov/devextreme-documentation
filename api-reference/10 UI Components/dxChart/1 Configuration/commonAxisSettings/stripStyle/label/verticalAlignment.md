@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.commonAxisSettings.stripStyle.label.verticalAlignment
-acceptValues: 'bottom' | 'center' | 'top'
-type: String
 default: 'center'
+inherits: Enums.VerticalAlignment
 ---
 ---
 ##### shortDescription

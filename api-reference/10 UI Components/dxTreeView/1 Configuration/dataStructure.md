@@ -1,8 +1,7 @@
 ---
 id: dxTreeView.Options.dataStructure
-acceptValues: 'plain' | 'tree'
-type: String
 default: 'tree'
+inherits: Enums.DataStructure
 ---
 ---
 ##### shortDescription

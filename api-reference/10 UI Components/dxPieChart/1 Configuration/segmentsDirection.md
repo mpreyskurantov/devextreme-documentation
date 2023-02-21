@@ -1,8 +1,7 @@
 ---
 id: dxPieChart.Options.segmentsDirection
-acceptValues: 'anticlockwise' | 'clockwise'
-type: String
 default: 'clockwise'
+inherits: Enums.PieChartSegmentDirection
 ---
 ---
 ##### shortDescription

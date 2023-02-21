@@ -1,8 +1,7 @@
 ---
 id: PdfExportGanttProps.exportMode
-acceptValues: 'all' | 'treeList' | 'chart'
-type: String
 default: 'all'
+inherits: Enums.GanttPdfExportMode
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxFormSimpleItem.itemType
-acceptValues: 'empty' | 'group' | 'simple' | 'tabbed' | 'button'
-type: String
 default: 'simple'
+inherits: Enums.FormItemType
 ---
 ---
 ##### shortDescription

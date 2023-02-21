@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.seriesSelectionMode
-acceptValues: 'single' | 'multiple'
-type: String
 default: 'single'
+inherits: Enums.SingleOrMultiple
 ---
 ---
 ##### shortDescription

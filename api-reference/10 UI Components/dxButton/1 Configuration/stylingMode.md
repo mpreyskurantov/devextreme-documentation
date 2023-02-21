@@ -1,8 +1,7 @@
 ---
 id: dxButton.Options.stylingMode
-acceptValues: 'text' | 'outlined' | 'contained'
-type: String
 default: 'contained'
+inherits: Enums.ButtonStyle
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxBox.Options.direction
-acceptValues: 'col' | 'row'
-type: String
 default: 'row'
+inherits: Enums.BoxDirection
 ---
 ---
 ##### shortDescription

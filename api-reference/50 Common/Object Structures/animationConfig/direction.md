@@ -1,8 +1,7 @@
 ---
 id: AnimationConfig.direction
-acceptValues: 'bottom' | 'left' | 'right' | 'top'
-type: String
 default: undefined
+inherits: Enums.Direction
 ---
 ---
 ##### shortDescription

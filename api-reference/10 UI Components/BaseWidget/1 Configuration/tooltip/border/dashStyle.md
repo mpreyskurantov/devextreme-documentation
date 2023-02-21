@@ -1,8 +1,7 @@
 ---
 id: BaseWidget.Options.tooltip.border.dashStyle
-acceptValues: 'dash' | 'dot' | 'longDash' | 'solid'
-type: String
 default: 'solid'
+inherits: Enums.DashStyle
 ---
 ---
 ##### shortDescription

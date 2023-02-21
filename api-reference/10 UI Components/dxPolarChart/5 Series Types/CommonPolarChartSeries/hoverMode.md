@@ -1,7 +1,6 @@
 ---
 id: dxPolarChartSeriesTypes.CommonPolarChartSeries.hoverMode
-acceptValues: 'allArgumentPoints' | 'allSeriesPoints' | 'excludePoints' | 'includePoints' | 'nearestPoint' | 'none' | 'onlyPoint'
-type: String
+inherits: Enums.SeriesHoverMode
 ---
 ---
 ##### shortDescription

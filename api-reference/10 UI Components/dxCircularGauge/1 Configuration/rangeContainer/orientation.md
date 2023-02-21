@@ -1,8 +1,7 @@
 ---
 id: dxCircularGauge.Options.rangeContainer.orientation
-acceptValues: 'center' | 'inside' | 'outside'
-type: String
 default: 'outside'
+inherits: Enums.CircularGaugeElementOrientation
 ---
 ---
 ##### shortDescription

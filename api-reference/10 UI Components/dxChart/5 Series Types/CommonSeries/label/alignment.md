@@ -1,8 +1,7 @@
 ---
 id: dxChartSeriesTypes.CommonSeries.label.alignment
-acceptValues: 'center' | 'left' | 'right'
-type: String
 default: 'center'
+inherits: Enums.HorizontalAlignment
 ---
 ---
 ##### shortDescription

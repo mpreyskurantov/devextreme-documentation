@@ -1,8 +1,7 @@
 ---
 id: dxHtmlEditorImageUpload.fileUploadMode
-acceptValues: 'base64' | 'server' | 'both'
-type: String
 default: 'base64'
+inherits: Enums.HtmlEditorImageUploadMode
 ---
 ---
 ##### shortDescription

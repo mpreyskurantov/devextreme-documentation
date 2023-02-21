@@ -1,8 +1,7 @@
 ---
 id: dxSortable.Options.itemOrientation
-acceptValues: 'horizontal' | 'vertical'
-type: String
 default: 'vertical'
+inherits: Enums.Orientation
 ---
 ---
 ##### shortDescription

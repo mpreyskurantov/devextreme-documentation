@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.scrollBar.position
-acceptValues: 'bottom' | 'left' | 'right' | 'top'
-type: String
 default: 'top'
+inherits: Enums.Position
 ---
 ---
 ##### shortDescription

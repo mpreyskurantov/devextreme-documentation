@@ -1,8 +1,7 @@
 ---
 id: dxActionSheetItem.type
-acceptValues: 'back' | 'danger' | 'default' | 'normal' | 'success'
-type: String
 default: 'normal'
+inherits: Enums.ButtonType
 ---
 ---
 ##### shortDescription

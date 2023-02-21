@@ -1,8 +1,7 @@
 ---
 id: dxChartSeriesTypes.ScatterSeries.aggregation.method
-acceptValues: 'avg' | 'count' | 'max' | 'min' | 'sum' | 'custom'
-type: String
 default: 'avg'
+inherits: Enums.ChartSingleValueSeriesAggregationMethod
 ---
 ---
 ##### shortDescription

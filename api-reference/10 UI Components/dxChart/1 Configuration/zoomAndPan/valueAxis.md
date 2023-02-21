@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.zoomAndPan.valueAxis
-acceptValues: 'both' | 'none' | 'pan' | 'zoom'
-type: String
 default: 'none'
+inherits: Enums.ChartZoomAndPanMode
 ---
 ---
 ##### shortDescription

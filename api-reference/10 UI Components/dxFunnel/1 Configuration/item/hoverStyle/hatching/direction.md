@@ -1,8 +1,7 @@
 ---
 id: dxFunnel.Options.item.hoverStyle.hatching.direction
-acceptValues: 'left' | 'none' | 'right'
-type: String
 default: 'right'
+inherits: Enums.HatchDirection
 ---
 ---
 ##### shortDescription

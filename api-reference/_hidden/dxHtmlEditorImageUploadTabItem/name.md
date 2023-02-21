@@ -1,8 +1,7 @@
 ---
 id: dxHtmlEditorImageUploadTabItem.name
-acceptValues: 'url' | 'file'
-type: String
 default: undefined
+inherits: Enums.HtmlEditorImageUploadTab
 ---
 ---
 ##### shortDescription

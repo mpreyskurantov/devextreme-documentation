@@ -1,8 +1,7 @@
 ---
 id: dxBarGauge.Options.resolveLabelOverlapping
-acceptValues: 'hide' | 'none'
-type: String
 default: 'hide'
+inherits: Enums.ShiftLabelOverlap
 ---
 ---
 ##### shortDescription

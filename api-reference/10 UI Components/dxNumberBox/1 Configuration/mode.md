@@ -1,8 +1,7 @@
 ---
 id: dxNumberBox.Options.mode
-acceptValues: 'number' | 'text' | 'tel'
-type: String
 default: 'text', 'number' (mobile_devices)
+inherits: Enums.NumberBoxType
 ---
 ---
 ##### shortDescription

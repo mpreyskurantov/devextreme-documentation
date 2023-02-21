@@ -1,8 +1,7 @@
 ---
 id: dxFileManager.Options.itemView.mode
-acceptValues: 'details' | 'thumbnails'
-type: String
 default: 'details'
+inherits: Enums.FileManagerItemViewMode
 ---
 ---
 ##### shortDescription

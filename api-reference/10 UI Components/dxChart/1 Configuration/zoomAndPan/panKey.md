@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.zoomAndPan.panKey
-acceptValues: 'alt' | 'ctrl' | 'meta' | 'shift'
-type: String
 default: 'shift'
+inherits: Enums.EventKeyModifier
 ---
 ---
 ##### shortDescription

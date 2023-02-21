@@ -1,8 +1,7 @@
 ---
 id: dxTextEditorButton.location
-acceptValues: 'after' | 'before'
-type: String
 default: 'after'
+inherits: Enums.TextEditorButtonLocation
 ---
 ---
 ##### shortDescription

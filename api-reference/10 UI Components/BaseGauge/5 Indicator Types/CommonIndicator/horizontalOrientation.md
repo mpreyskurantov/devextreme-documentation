@@ -1,8 +1,7 @@
 ---
 id: CommonIndicator.horizontalOrientation
-acceptValues: 'left' | 'right'
-type: String
 default: 'left' (subvalue_indicators), 'right' (value_indicators)
+inherits: Enums.HorizontalEdge
 ---
 ---
 ##### shortDescription

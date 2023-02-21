@@ -1,8 +1,7 @@
 ---
 id: dxDateBox.Options.type
-acceptValues: 'date' | 'datetime' | 'time'
-type: String
 default: 'date'
+inherits: Enums.DateType
 ---
 ---
 ##### shortDescription

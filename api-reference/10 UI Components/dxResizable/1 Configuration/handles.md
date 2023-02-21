@@ -1,8 +1,7 @@
 ---
 id: dxResizable.Options.handles
-acceptValues: 'bottom' | 'left' | 'right' | 'top' | 'all'
-type: String
 default: 'all'
+inherits: Enums.ResizeHandle
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxChartSeriesTypes.CommonSeries.valueErrorBar.displayMode
-acceptValues: 'auto' | 'high' | 'low' | 'none'
-type: String
 default: 'auto'
+inherits: Enums.ValueErrorBarDisplayMode
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxButtonGroup.Options.selectionMode
-acceptValues: 'single' | 'multiple' | 'none'
-type: String
 default: 'single'
+inherits: Enums.SingleMultipleOrNone
 ---
 ---
 ##### shortDescription

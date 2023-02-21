@@ -1,8 +1,7 @@
 ---
 id: AnimationConfig.type
-acceptValues: 'css' | 'fade' | 'fadeIn' | 'fadeOut' | 'pop' | 'slide' | 'slideIn' | 'slideOut'
-type: String
 default: 'custom'
+inherits: Enums.AnimationType
 ---
 ---
 ##### shortDescription

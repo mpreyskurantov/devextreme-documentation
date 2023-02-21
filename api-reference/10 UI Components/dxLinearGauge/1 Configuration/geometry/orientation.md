@@ -1,8 +1,7 @@
 ---
 id: dxLinearGauge.Options.geometry.orientation
-acceptValues: 'horizontal' | 'vertical'
-type: String
 default: 'horizontal'
+inherits: Enums.Orientation
 ---
 ---
 ##### shortDescription

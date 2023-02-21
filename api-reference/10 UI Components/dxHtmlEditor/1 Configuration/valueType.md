@@ -1,8 +1,7 @@
 ---
 id: dxHtmlEditor.Options.valueType
-acceptValues: 'html' | 'markdown'
-type: String
 default: 'html'
+inherits: Enums.MarkupType
 ---
 ---
 ##### shortDescription

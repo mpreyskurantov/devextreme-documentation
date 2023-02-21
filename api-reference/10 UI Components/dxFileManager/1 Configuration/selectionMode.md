@@ -1,8 +1,7 @@
 ---
 id: dxFileManager.Options.selectionMode
-acceptValues: 'single' | 'multiple'
-type: String
 default: 'multiple'
+inherits: Enums.SingleOrMultiple
 ---
 ---
 ##### shortDescription

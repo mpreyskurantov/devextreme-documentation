@@ -1,8 +1,7 @@
 ---
 id: dxRangeSelector.Options.scale.valueType
-acceptValues: 'datetime' | 'numeric' | 'string'
-type: String
 default: undefined
+inherits: Enums.ChartsDataType
 ---
 ---
 ##### shortDescription

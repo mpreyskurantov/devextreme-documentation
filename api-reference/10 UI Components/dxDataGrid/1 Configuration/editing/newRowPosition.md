@@ -1,8 +1,7 @@
 ---
 id: dxDataGrid.Options.editing.newRowPosition
-acceptValues: 'first' | 'last' | 'pageBottom' | 'pageTop' | 'viewportBottom' | 'viewportTop'
-type: String
 default: 'viewportTop'
+inherits: Enums.NewRowPosition
 ---
 ---
 ##### shortDescription

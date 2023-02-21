@@ -1,8 +1,7 @@
 ---
 id: PositionConfig.collision.y
-acceptValues: 'fit' | 'flip' | 'flipfit' | 'none'
-type: String
 default: 'none'
+inherits: Enums.CollisionResolution
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxVectorMap.Options.layers.elementType
-acceptValues: 'bubble' | 'dot' | 'image' | 'pie'
-type: String
 notUsedInTheme: 
+inherits: Enums.VectorMapMarkerType
 ---
 ---
 ##### shortDescription

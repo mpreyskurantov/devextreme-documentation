@@ -1,8 +1,7 @@
 ---
 id: dxToast.Options.type
-acceptValues: 'custom' | 'error' | 'info' | 'success' | 'warning'
-type: String
 default: 'info'
+inherits: Enums.ToastType
 ---
 ---
 ##### shortDescription

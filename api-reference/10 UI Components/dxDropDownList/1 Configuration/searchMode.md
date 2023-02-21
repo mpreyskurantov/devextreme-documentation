@@ -1,8 +1,7 @@
 ---
 id: dxDropDownList.Options.searchMode
-acceptValues: 'contains' | 'startswith'
-type: String
 default: 'contains'
+inherits: Enums.SimplifiedSearchMode
 ---
 ---
 ##### shortDescription

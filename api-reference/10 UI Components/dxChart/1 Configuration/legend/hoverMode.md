@@ -1,8 +1,7 @@
 ---
 id: dxChart.Options.legend.hoverMode
-acceptValues: 'excludePoints' | 'includePoints' | 'none'
-type: String
 default: 'includePoints'
+inherits: Enums.LegendHoverMode
 ---
 ---
 ##### shortDescription

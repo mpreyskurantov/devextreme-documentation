@@ -1,7 +1,6 @@
 ---
 id: dxDiagramChangeConnectionArgs.connectorPosition
-acceptValues: 'start' | 'end'
-type: String
+inherits: Enums.DiagramConnectorPosition
 ---
 ---
 ##### shortDescription

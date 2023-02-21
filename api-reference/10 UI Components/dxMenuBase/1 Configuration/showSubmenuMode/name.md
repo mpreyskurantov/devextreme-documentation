@@ -1,8 +1,7 @@
 ---
 id: dxMenuBase.Options.showSubmenuMode.name
-acceptValues: 'onClick' | 'onHover'
-type: String
 default: 'onHover'
+inherits: Enums.SubmenuShowMode
 ---
 ---
 ##### shortDescription

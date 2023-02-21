@@ -1,8 +1,7 @@
 ---
 id: dxVectorMap.Options.layers.type
-acceptValues: 'area' | 'line' | 'marker'
-type: String
 notUsedInTheme: 
+inherits: Enums.VectorMapLayerType
 ---
 ---
 ##### shortDescription

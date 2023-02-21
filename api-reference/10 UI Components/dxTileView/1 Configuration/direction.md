@@ -1,8 +1,7 @@
 ---
 id: dxTileView.Options.direction
-acceptValues: 'horizontal' | 'vertical'
-type: String
 default: 'horizontal'
+inherits: Enums.Orientation
 ---
 ---
 ##### shortDescription

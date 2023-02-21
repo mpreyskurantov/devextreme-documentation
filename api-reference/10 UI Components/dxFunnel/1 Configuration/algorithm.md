@@ -1,8 +1,7 @@
 ---
 id: dxFunnel.Options.algorithm
-acceptValues: 'dynamicHeight' | 'dynamicSlope'
-type: String
 default: 'dynamicSlope'
+inherits: Enums.FunnelAlgorithm
 ---
 ---
 ##### shortDescription

@@ -1,9 +1,8 @@
 ---
 id: GridBaseColumn.sortOrder
-acceptValues: undefined | 'asc' | 'desc'
-type: String
 default: undefined
 firedEvents: optionChanged
+inherits: Enums.SortOrder
 ---
 ---
 ##### shortDescription

@@ -1,8 +1,7 @@
 ---
 id: dxVectorMap.Options.controlBar.verticalAlignment
-acceptValues: 'bottom' | 'top'
-type: String
 default: 'top'
+inherits: Enums.VerticalEdge
 ---
 ---
 ##### shortDescription

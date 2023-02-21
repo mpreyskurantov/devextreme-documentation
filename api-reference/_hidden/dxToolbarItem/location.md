@@ -1,8 +1,7 @@
 ---
 id: dxToolbarItem.location
-acceptValues: 'after' | 'before' | 'center'
-type: String
 default: 'center'
+inherits: Enums.ToolbarItemLocation
 ---
 ---
 ##### shortDescription
