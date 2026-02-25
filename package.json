@@ -28,5 +28,11 @@
   "dependencies": {
     "@types/node": "^20.3.2"
   },
+  "pnpm": {
+    "overrides": {
+      "diff@>=4.0.0 <4.0.4": ">=4.0.4",
+      "js-yaml@<3.14.2": ">=3.14.2"
+    }
+  },
   "packageManager": "pnpm@10.15.0"
 }
